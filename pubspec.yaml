@@ -1,0 +1,35 @@
+name: ar_viewer_clean
+description: "Flutter AR 3D Model Viewer App"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+9
+  permission_handler: ^11.3.1
+  model_viewer_plus: ^1.7.2
+  sensors_plus: ^4.0.2
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Agregar modelos 3D locales
+  assets:
+    - assets/models/
+    - assets/images/
+
+# Configuración web para ModelViewer
+flutter_web_plugins:
+  url_strategy: path
