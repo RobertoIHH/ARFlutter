@@ -1,3 +1,7 @@
+#Mienbros 
+González Llamosas Noe Ramsés
+Hernández Hernández Roberto Isaac 
+
 # ARFlutter 📱🔍
 
 Una aplicación Flutter que implementa funcionalidades de Realidad Aumentada (AR) para dispositivos móviles.
