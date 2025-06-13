@@ -1,7 +1,7 @@
 ## Mienbros 
 
-- **González Llamosas Noe Ramsés
-- **Hernández Hernández Roberto Isaac.
+- González Llamosas Noe Ramsés
+- Hernández Hernández Roberto Isaac.
 
 # ARFlutter 📱🔍
 
